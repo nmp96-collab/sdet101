@@ -5,7 +5,7 @@
 Welcome to the portfolio of **Natalie Portillo**, an Electrical and Computer Engineering Technology student at NJIT. This website showcases my educational journey, projects, technical skills, and ways to connect.
 
 ## 🌟 Live Demo
-Open `index.html` in your browser or deploy on [GitHub Pages](https://pages.github.com/) for best results.
+https://sdet101.vercel.app/
 
 ---
 
